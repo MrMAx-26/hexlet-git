@@ -1,4 +1,7 @@
-git is awesome!/n
+git is awesome!
+
 new line
+
 test amend
+
 Practice

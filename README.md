@@ -1,3 +1,3 @@
-No code  
+No code
 No pain
 test amend
