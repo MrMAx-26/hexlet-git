@@ -1,4 +1,1 @@
-git is awesome!
-new line
-test amend
-Practice
+New line again
